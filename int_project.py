@@ -44,7 +44,7 @@ case = [' .This whole scenario was stated to the higher officials ',' .This whol
 
 accused = [' and they consolidated the victim that accused would not be spared', 'and they sentenced the victim that culprit would not be exempted']
 
-news = [' .This whole news was covered on television', ' .This whole news was covered in newspaper headlines' ]
+news = [' .This whole news was covered on television']
 
 solve = [' .Later This case was solved with the help of special cops']
 
